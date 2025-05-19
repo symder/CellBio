@@ -36,40 +36,40 @@
     "feedback": "Oxygen, Hydrogen, Carbon, Nitrogen"
   },
   {
-    "question": "Sample Question:",
-    "choices": ["Answer", "Answer", "Answer", "Answer"],
-    "correctIndex": 3,
-    "feedback": "Feedback"
+    "question": "Atoms are comprised primarily of three subatomic particles: Nucleus, Protons, and Electrons.",
+    "choices": ["True", "False"],
+    "correctIndex": 1,
+    "feedback": "The Nucleus is the central core of an Atom, not a particle itself. Protons, Electrons, and Neutrons would be correct."
   },
   {
-    "question": "Sample Question:",
-    "choices": ["Answer", "Answer", "Answer", "Answer"],
-    "correctIndex": 3,
-    "feedback": "Feedback"
+    "question": "The Atomic Number of an atom refers to the number of Protons it has.",
+    "choices": ["True", "False"],
+    "correctIndex": 0,
+    "feedback": "True"
   },
   {
-    "question": "Sample Question:",
-    "choices": ["Answer", "Answer", "Answer", "Answer"],
-    "correctIndex": 3,
-    "feedback": "Feedback"
+    "question": "An Isotope is an atom of an element that has an abnormal number of Neutrons:",
+    "choices": ["True", "False"],
+    "correctIndex": 0,
+    "feedback": "True; an Isotope is a like a mutation of the common cold. It's a slight change the virus made so it can reinfect you, but it's still fundamentally the same illness. Similarly, Isotopes are variants of an Atom with abnormal Neutron counts, which can affect how behaves."
   },
   {
-    "question": "Sample Question:",
-    "choices": ["Answer", "Answer", "Answer", "Answer"],
-    "correctIndex": 3,
-    "feedback": "Feedback"
+    "question": "Radioactive Isotopes are always harmful.",
+    "choices": ["True", "False"],
+    "correctIndex": 1,
+    "feedback": "False; Some isotopes are used in medical imaging, as they can allow for accurate tracking of blood flow patterns, and can help diagnoses some forms of cancer."
   },
     {
-    "question": "Sample Question:",
-    "choices": ["Answer", "Answer", "Answer", "Answer"],
-    "correctIndex": 3,
-    "feedback": "Feedback"
+    "question": "The Half-Life of an isotope refers to:",
+    "choices": ["How long for the isotope to decay into another element", "How long for the isotope to decay into an unstable form", "How long for the isotope to decay into a stable form", "A popular game created by Valve"],
+    "correctIndex": 2,
+    "feedback": "Radioactive decay, known as Half-Life, goes from Unstable to Stable condition. For example, fuel rods from nuclear reactors need to be stored as they are still emitting radiation. Once they decay, in theory the rods would be safe to handle again."
   },
   {
-    "question": "Sample Question:",
-    "choices": ["Answer", "Answer", "Answer", "Answer"],
-    "correctIndex": 3,
-    "feedback": "Feedback"
+    "question": "A Dalton is a unit for measuring the _____ of an atom:",
+    "choices": ["Mass", "Weight", "Volume", "Action Potential"],
+    "correctIndex": 0,
+    "feedback": "Mass."
   },
   {
     "question": "Sample Question:",
