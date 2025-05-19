@@ -1,39 +1,39 @@
 [
   {
-    "question": "Two or more diseases or conditions in a patient is refered to as:",
-    "choices": ["Sequela", "Comorbidity", "Prevalence", "Complication"],
-    "correctIndex": 1,
-    "feedback": "Comorbidity is correct."
-  },
-  {
-    "question": "An epidemic is a global disease outbreak.",
+    "question": "Weight can be defined as the force of gravity acting on matter.",
     "choices": ["True", "False"],
-    "correctIndex": 1,
-    "feedback": "Pandemic is Global, Epidemic is Widespread (eg. Country)"
-  },
-  {
-    "question": "A client is complaining about neck pain that started when they woke up this morning. This is an example of an:",
-    "choices": ["Acute Condition", "Subacute Condition", "Chronic Condition", "Systemic Condition"],
     "correctIndex": 0,
-    "feedback": "Acute is a condition that suddenly develops."
+    "feedback": "True"
   },
   {
-    "question": "A client is complaining about soreness in their forearm. During assessment you can't see any redness or bruising in the area. This is an example of a Sign of a condition.",
+    "question": "Matter exists in 4 states: Solid, Liquid, Gas, and Plasma.",
     "choices": ["True", "False"],
     "correctIndex": 1,
-    "feedback": "A Sign is an objectively observable indication, whereas a Symptom is subjective and can't be seen"
+    "feedback": "False; Solid, Liquid, and Gas"
   },
   {
-    "question": "Arthropods are an example of:",
-    "choices": ["Virus", "Bacteria", "Fungi", "Animal Parasite"],
+    "question": "Chemistry is the science of the structure and interactions of matter.",
+    "choices": ["True", "False"],
+    "correctIndex": 0,
+    "feedback": "True."
+  },
+  {
+    "question": "Mass can be best described as:",
+    "choices": ["Anything that occupies space", "The size of an object", "The amount of matter in an object", "The force of gravity acting on an object"],
+    "correctIndex": 2,
+    "feedback": "All things have MATTER, which is anything that occupies space. MASS is the amount of matter in an object."
+  },
+  {
+    "question": "The building blocks of matter are called:",
+    "choices": ["Chemical Elements", "Molecules", "Compounds", "Cells"],
+    "correctIndex": 0,
+    "feedback": "Chemical Elements is correct, which are made of of Atoms. Having both Atoms and Chemical Elements as potential answers on a quiz would be... problematic."
+  },
+  {
+    "question": "These four elements comprise 96% of the body's mass.",
+    "choices": ["Oxygen, Hydrogen, Helium, Nitrogen", "Oxygen, Calcium, Nitrogen, Hydrogen", "Oxygen, Hydrogen, Calcium, Carbon", "Oxygen, Hydrogen, Carbon, Nitrogen"],
     "correctIndex": 3,
-    "feedback": "Example of Arthropods include Lice and Mites, which are Animal Parasites"
-  },
-  {
-    "question": "Itchiness is a common symptom of Mites of Lice.",
-    "choices": ["True", "False"],
-    "correctIndex": 0,
-    "feedback": "Redness from the itching can be a sign as well."
+    "feedback": "Oxygen, Hydrogen, Carbon, Nitrogen"
   },
   {
     "question": "Which of these is an example of a Bacterial infection:",
