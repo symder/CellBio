@@ -69,13 +69,13 @@
     "question": "A Dalton is a unit for measuring the _____ of an atom:",
     "choices": ["Mass", "Weight", "Volume", "Action Potential"],
     "correctIndex": 0,
-    "feedback": "Mass."
+    "feedback": "Mass. A Dalton can also be referred to as an Atomic Mass Unit (amu)"
   },
   {
-    "question": "Sample Question:",
-    "choices": ["Answer", "Answer", "Answer", "Answer"],
-    "correctIndex": 3,
-    "feedback": "Feedback"
+    "question": "An unpaired electron in the outmost shell of an atom is best described as:",
+    "choices": ["Ion", "Free Radical", "Isotope", "Lonely"],
+    "correctIndex": 1,
+    "feedback": "Free Radical is correct. "
   },
   {
     "question": "Sample Question:",
