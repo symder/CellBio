@@ -111,7 +111,7 @@
     "question": "A Cation is a negatively charged ion.",
     "choices": ["True", "False"],
     "correctIndex": 1,
-    "feedback": "False; Cation is positive (we all love cats), Anion is negative."
+    "feedback": "False; Cation is positive, Anion is negative."
   },
   {
     "question": "The force that hold the atoms of a molecule or compound together is called:",
