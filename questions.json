@@ -78,69 +78,51 @@
     "feedback": "Free Radical is correct. "
   },
   {
-    "question": "A compound is a substance that contains atoms of two or more elements.",
+    "question": "A compound is a substance that contains atoms of two elements.",
     "choices": ["True", "False"],
     "correctIndex": 1,
     "feedback": "False; two or more DIFFERENT elements."
   },
   {
-    "question": "Sample Question:",
-    "choices": ["Answer", "Answer", "Answer", "Answer"],
-    "correctIndex": 3,
-    "feedback": "Feedback"
+    "question": "The chemical symbol for Sodium is:",
+    "choices": ["N", "Na", "S", "Sa"],
+    "correctIndex": 1,
+    "feedback": "Na for Sodium. N is for Nitrogen, S is for Sulfur. Sa doesn't exist."
   },
   {
-    "question": "Sample Question:",
-    "choices": ["Answer", "Answer", "Answer", "Answer"],
-    "correctIndex": 3,
-    "feedback": "Feedback"
+    "question": "A Chlorine atom has 7 electrons in it's valence shell. This means:",
+    "choices": ["It is stable and unlikely to bond with other atoms", "It is unstable and will readily bond with other elements", "It is negatively charged", "It is positively charged"],
+    "correctIndex": 1,
+    "feedback": "It is unstable; Valence (outermost) electron shells want to have an even number, and will try to get 8 electrons (Octet Rule) in it's shell. Chlorine will want to bond with Hydrogen, which has 1 electron in it's valence shell, to form Hydrogen Chloride. This is a gas, but when dissolved in water becomes Hydrochloric Acid, which is found in your stomach."
   },
   {
-    "question": "Sample Question:",
-    "choices": ["Answer", "Answer", "Answer", "Answer"],
-    "correctIndex": 3,
-    "feedback": "Feedback"
+    "question": "An atom that gives up or gains electrons becomes a(n):",
+    "choices": ["Ion", "Molecule", "Free Radical", "Isotope"],
+    "correctIndex": 0,
+    "feedback": "Ion; when it gains or loses an electron, it now has an unequal number of Protons vs Electrons, making it positively (more Protons) or negatively (more Electrons) charged."
   },
   {
-    "question": "Sample Question:",
-    "choices": ["Answer", "Answer", "Answer", "Answer"],
-    "correctIndex": 3,
-    "feedback": "Feedback"
+    "question": "Ionization is the process of giving up or gaining electrons",
+    "choices": ["True", "False"],
+    "correctIndex": 0,
+    "feedback": "True"
   },
   {
-    "question": "Sample Question:",
-    "choices": ["Answer", "Answer", "Answer", "Answer"],
-    "correctIndex": 3,
-    "feedback": "Feedback"
+    "question": "A Cation is a negatively charged ion.",
+    "choices": ["True", "False"],
+    "correctIndex": 1,
+    "feedback": "False; Cation is positive (we all love cats), Anion is negative."
   },
   {
-    "question": "Sample Question:",
-    "choices": ["Answer", "Answer", "Answer", "Answer"],
-    "correctIndex": 3,
-    "feedback": "Feedback"
+    "question": "The force that hold the atoms of a molecule or compound together is called:",
+    "choices": ["Ionic Bond", "Chemical Bond", "Hydrogen Bond", "Covalent Bond"],
+    "correctIndex": 1,
+    "feedback": "Chemical Bond, which is the umbrella term that the other three bonds are a part of."
   },
   {
-    "question": "Sample Question:",
-    "choices": ["Answer", "Answer", "Answer", "Answer"],
+    "question": "A covalent bond results when two atoms share:",
+    "choices": ["One electron Pair", "Two electron pairs", "Three electron pairs", "All of the above"],
     "correctIndex": 3,
-    "feedback": "Feedback"
-  },
-  {
-    "question": "Sample Question:",
-    "choices": ["Answer", "Answer", "Answer", "Answer"],
-    "correctIndex": 3,
-    "feedback": "Feedback"
-  },
-  {
-    "question": "Sample Question:",
-    "choices": ["Answer", "Answer", "Answer", "Answer"],
-    "correctIndex": 3,
-    "feedback": "Feedback"
-  },
-  {
-    "question": "Sample Question:",
-    "choices": ["Answer", "Answer", "Answer", "Answer"],
-    "correctIndex": 3,
-    "feedback": "Feedback"
+    "feedback": "All of the above, also referred to as Single/Double/Triple covalent bonds"
   }
 ]
