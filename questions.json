@@ -125,7 +125,6 @@
     "correctIndex": 3,
     "feedback": "All of the above, also referred to as Single/Double/Triple covalent bonds"
   },
-  [
   {
     "question": "What does the term Metabolism refer to?",
     "choices": ["The rate at which a person breathes", "All chemical reactions in the body", "The process of digestion", "The function of the liver"],
@@ -252,6 +251,4 @@
     "correctIndex": 3,
     "feedback": "Buffer systems maintain pH by converting strong acids or bases to weaker ones."
   }
-]
-
 ]
