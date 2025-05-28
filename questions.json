@@ -124,5 +124,134 @@
     "choices": ["One electron Pair", "Two electron pairs", "Three electron pairs", "All of the above"],
     "correctIndex": 3,
     "feedback": "All of the above, also referred to as Single/Double/Triple covalent bonds"
+  },
+  [
+  {
+    "question": "What does the term Metabolism refer to?",
+    "choices": ["The rate at which a person breathes", "All chemical reactions in the body", "The process of digestion", "The function of the liver"],
+    "correctIndex": 1,
+    "feedback": "Metabolism refers to all chemical reactions that occur within the body."
+  },
+  {
+    "question": "What best describes potential energy?",
+    "choices": ["Energy in motion", "Energy stored in chemical bonds", "Energy from food", "Energy used during exercise"],
+    "correctIndex": 1,
+    "feedback": "Potential energy is stored energy, such as that found in chemical bonds."
+  },
+  {
+    "question": "What best describes kinetic energy?",
+    "choices": ["Stored energy", "Energy used to create molecules", "Energy of motion", "Energy in a battery"],
+    "correctIndex": 2,
+    "feedback": "Kinetic energy is the energy of motion."
+  },
+  {
+    "question": "What is an Exergonic Reaction?",
+    "choices": ["A reaction that stores energy", "A reaction that absorbs heat", "A reaction that releases energy", "A reaction that builds complex molecules"],
+    "correctIndex": 2,
+    "feedback": "Exergonic reactions release energy, typically in the form of heat or ATP."
+  },
+  {
+    "question": "What is an Endergonic Reaction?",
+    "choices": ["A reaction that releases energy", "A reaction that consumes energy", "A spontaneous chemical reaction", "A type of decomposition reaction"],
+    "correctIndex": 1,
+    "feedback": "Endergonic reactions require an input of energy to proceed."
+  },
+  {
+    "question": "The collision energy needed to break chemical bonds is called:",
+    "choices": ["Thermal energy", "Potential energy", "Kinetic energy", "Activation energy"],
+    "correctIndex": 3,
+    "feedback": "Activation energy is the energy required to start a chemical reaction by breaking bonds."
+  },
+  {
+    "question": "An enzyme is the most important example of this type of substance, which speeds up chemical reactions by lowering the activation energy needed:",
+    "choices": ["Solvent", "Catalyst", "Substrate", "Reactant"],
+    "correctIndex": 1,
+    "feedback": "Enzymes are biological catalysts that speed up reactions by lowering activation energy."
+  },
+  {
+    "question": "All the synthesis reactions that occur in the body are collectively referred to as:",
+    "choices": ["Catabolism", "Anabolism", "Hydrolysis", "Oxidation"],
+    "correctIndex": 1,
+    "feedback": "Anabolism refers to all the synthesis (building) reactions in the body."
+  },
+  {
+    "question": "Catabolism refers to what kind of Reaction?",
+    "choices": ["Decomposition Reaction", "Synthesis Reaction", "Exchange Reaction", "Reversible Reaction"],
+    "correctIndex": 0,
+    "feedback": "Catabolism involves breaking down molecules to release energy, also called a Decomposition Reaction"
+  },
+  {
+    "question": "A reaction where both Synthesis and Decomposition occurs is called:",
+    "choices": ["Reversible Reaction", " Synthesis Reaction ", "Exchange Reaction", " Decomposition Reaction "],
+    "correctIndex": 2,
+    "feedback": "Exchange reactions involve both decomposition and synthesis."
+  },
+  {
+    "question": "What is the difference between organic and inorganic compounds?",
+    "choices": ["Organic compounds always contain oxygen", "Inorganic compounds contain carbon", "Organic compounds always contain carbon", "Inorganic compounds are not found in the body"],
+    "correctIndex": 2,
+    "feedback": "Organic compounds always contain carbon, usually bonded with hydrogen."
+  },
+  {
+    "question": "The most important and abundant inorganic compound in all living systems is:",
+    "choices": ["Carbon dioxide", "Oxygen", "Glucose", "Water"],
+    "correctIndex": 3,
+    "feedback": "Water is the most abundant and essential inorganic compound in the body."
+  },
+  {
+    "question": "What is the difference between a Solvent and a Solute?",
+    "choices": ["Solute is dissolved in solvent", "Solute is always water", "Solvent dissolves the solute", "Solute evaporates the solvent"],
+    "correctIndex": 2,
+    "feedback": "A solvent dissolves the solute; in biological systems, water is the universal solvent."
+  },
+  {
+    "question": "What best defines what a Mixture is?",
+    "choices": ["A compound formed by chemical bonds", "Two or more substances physically combined", "A suspension that settles", "An organic solution"],
+    "correctIndex": 1,
+    "feedback": "A mixture is a physical combination of two or more substances, but are not bound by chemical bonds."
+  },
+  {
+    "question": "What best defines what a Colloid is?",
+    "choices": ["A mixture with large particles that settle", "A type of protein", "A mixture where particles are large and scatter light", "A compound with ionic bonds"],
+    "correctIndex": 2,
+    "feedback": "Colloids are mixtures with large particles that remain suspended and evenly dispersed. They usually appear translucent or opaque. Fog and Milk are two examples of Colloids"
+  },
+  {
+    "question": "What best defines what a Suspension is?",
+    "choices": ["A solution with small particles", "A mixture with particles that settle over time", "A type of gas mixture", "A stable solution"],
+    "correctIndex": 1,
+    "feedback": "A suspension is a mixture where particles eventually settle out. For example, blood drawn in a test tube will have the red blood cells settle on the bottom, and the upper layer will be blood plasma."
+  },
+  {
+    "question": "Moles per Liter (mol/L) is a way of expressing what?",
+    "choices": ["Mass", "Energy", "Concentration", "Density"],
+    "correctIndex": 2,
+    "feedback": "Mol/L is a unit of concentration, indicating the amount of a substance in a given volume."
+  },
+  {
+    "question": "The potential for hydrogen is expressed by this scale:",
+    "choices": ["Thermal scale", "pH scale", "Energy scale", "Ionic scale"],
+    "correctIndex": 1,
+    "feedback": "The pH scale expresses the concentration of hydrogen ions in a solution."
+  },
+  {
+    "question": "The two Ions in a solution that determine the pH levels are:",
+    "choices": ["Sodium and Potassium", "Hydrogen and Hydroxide", "Calcium and Chloride", "Carbonate and Bicarbonate"],
+    "correctIndex": 1,
+    "feedback": "Hydrogen (H⁺) and Hydroxide (OH⁻) ions determine the pH of a solution."
+  },
+  {
+    "question": "On the pH scale, what is the number where the levels of Hydrogen and Hydroxide ions are equal or neutral?",
+    "choices": ["4", "7", "14", "10"],
+    "correctIndex": 1,
+    "feedback": "A pH of 7 is considered neutral, where H⁺ and OH⁻ concentrations are equal."
+  },
+  {
+    "question": "Buffer systems in the body help to regulate pH levels by doing what?",
+    "choices": ["Increasing water retention", "Converting weak acids/bases to strong acids/bases", "Removing carbon dioxide", "Converting strong acids/bases to weak acids/bases"],
+    "correctIndex": 3,
+    "feedback": "Buffer systems maintain pH by converting strong acids or bases to weaker ones."
   }
+]
+
 ]
